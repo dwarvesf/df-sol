@@ -50,9 +50,9 @@ Program template includes:
 - **counter**:  Generate counter template
 - **mint-token**:  Generate mint token template
 
-Navigate to the folder you created and use Devbox to install the environment.
-If you don't install, follow Follow the instruction from [the installation guide](https://www.jetify.com/devbox/docs/installing_devbox/).
-Open a terminal in that folder.
+Navigate to the folder you created. You should use `devbox` to set up the environment.
+If you don't install, follow the instruction from [the installation guide](https://www.jetify.com/devbox/docs/installing_devbox/).
+Then, open a terminal:
 - Init devbox 
   ```shell
   devbox init
